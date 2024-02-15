@@ -1,0 +1,10 @@
+#topbanner {
+  background-image: url("images/warrior2.jpg");
+  background-position: 0% 60%;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+.center {
+  text-align: center;
+}
