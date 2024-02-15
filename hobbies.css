@@ -22,3 +22,9 @@
   object-fit: cover;
   object-position: 60% 95%;
 }
+
+#snow {
+  height: 350px;
+  margin-top: 50px;
+  border-radius: 20%;
+}
